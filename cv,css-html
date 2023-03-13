@@ -1,0 +1,120 @@
+<!Doctype HTML>
+<html>
+<head>
+	<title>resume</title>
+	<link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+	<div class="box-outer">
+	<div class="resume-box">
+		<div class="box-1">
+			<img src="photo.jpg" height="400" style="border-radius: 40%;"border="2"  class="profile" />
+			<div class="content">
+			<h1>About me</h1>
+			
+          <p>I am Gaurav shelure And I am pursuing Engineering in Computer Science Department through Priyadarshini College Of Engineering </p><br/>
+	
+			<h1>Contact</h1>
+
+				<p><i class="fa fa-map"></i> &nbsp;Nagpur,Maharastra,India </p>
+				<p><i class="fa fa-phone"></i> &nbsp;phone:7758923666 </p>
+				<p><i class="fa fa-envelope"></i> &nbsp;email : Gaurav.shelure89@gmail.com</p>
+			
+			</div>
+
+		</div>
+
+		<div class="box-2">
+			
+			<div class="intro">
+				
+				<br/>
+				<h1 class="ma">Gaurav</h1>
+				<h1> <strong>Shelure</strong></h1>
+
+				<p class="phead">Web Devloper</p>
+				<div class="clearfix"></div>
+				<hr class="hr1" />
+			</div>
+			
+			<br/><br/>
+
+
+			<div class="content-2">
+				<h1 class="head">Education</h1>
+				<hr class="hr2" />
+				<div class="clearfix"></div>
+				<p class="para-1">SSC <strong>   2018-19</strong></p>
+				<p class="para-21">Gayatri convent</p> 
+
+				<p class="para-1"> HSC<strong>   2019-21 </strong></p>
+				<p class="para-21">Smt. JankiDevi high school & college</p>
+
+				<p class="para-1"> RTMNU(Rashtrasant Tukadoji Maharaj Nagpur University)<strong> 2023-Pursuing </strong></p>
+				<p class="para-21"> COMPUTER SCIENCE AND ENGINEERING</p>
+
+				
+			</div>
+
+			<div class="skills-section">
+				<h3 class="main-title">SKILLS</h3>
+				<ul>
+				   
+					<li>
+						<p text="white" class="skill-title">HTML</p>
+						<div class="progress-bar">
+							<div class="progress ps-progress"></div>
+						</div>
+					</li>
+					<li>
+						<p class="skill-title">CSS</p>
+						<div class="progress-bar">
+							<div class="progress j-progress"></div>
+						</div>
+					</li>
+				  
+					<li>
+						<p class="skill-title">Learnt Basic Python</p>
+						<div class="progress-bar">
+							<div class="progress n-progress"></div>
+						</div>
+					</li>
+				   
+				   
+				</ul>
+			</div>
+   
+			<div class="skills-section">
+				<h3 class="main-title">HOBBIES</h3>
+				<ul>
+				   
+					<li>
+						<p class="skill-title">playing Cricket</p>
+						<div class="progress-bar">
+							<div class="progress ps-progress"></div>
+						</div>
+					</li>
+					<li>
+						<p class="skill-title">Skating</p>
+						<div class="progress-bar">
+							<div class="progress j-progress"></div>
+						</div>
+					</li>
+				  
+					<li>
+						<p class="skill-title" text="white">Swimming</p>
+						<div class="progress-bar">
+							<div class="progress n-progress"></div>
+							<p>
+								I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
+						</div>
+
+		</div>
+
+	</div>
+	<div class="clearfix"></div>
+</div>
+</body>
+
+</html>
